@@ -6,8 +6,8 @@ inLanguage: it
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T20:43:47.980Z'
-dateModified: '2016-02-15T20:43:43.413Z'
+datePublished: '2016-02-15T21:50:07.859Z'
+dateModified: '2016-02-15T21:49:14.681Z'
 author: []
 related: []
 app_links: []
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Final Fantasy XV</h1><img src="http://www.finalfantasyxv.com/images/graphics/ffxv_logo_large.png" /></article>
+<article style=""><h1>Final Fantasy XV</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19ad927acce4a49853bc682b9e9123cec926a8cf.png" /></article>
