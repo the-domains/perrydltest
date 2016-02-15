@@ -3,11 +3,11 @@ inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Intro
-datePublished: '2016-02-15T22:53:35.362Z'
-dateModified: '2016-02-15T22:46:46.340Z'
+datePublished: '2016-02-15T22:55:58.279Z'
+dateModified: '2016-02-15T22:55:43.332Z'
 title: Intro text
 author: []
 authors: []
