@@ -1,24 +1,25 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Intro
-datePublished: '2016-02-15T22:55:58.279Z'
-dateModified: '2016-02-15T22:55:43.332Z'
-title: Intro text
+datePublished: '2016-02-15T22:57:27.954Z'
+dateModified: '2016-02-15T22:56:37.706Z'
+title: Biography
 author: []
+sourcePath: _posts/2016-02-15-intro-text.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-intro-text.md
-published: true
-_type: Blurb
+url: biography/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f44b5fa0-b778-431d-b2ce-9d17e4c238c6.jpg)
