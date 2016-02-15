@@ -1,26 +1,28 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.leschosesenface.eu'
-  name: Leschosesenface
-  favicon: 'http://www.leschosesenface.eu/favicon-16x16.png'
-  domain: www.leschosesenface.eu
-keywords: []
-description: 'Een intrigerend verhaal over twee mannen, waarvan de eerste zijn buitenlandse familie probeert bijeen te krijgen en te herenigen, terwijl de andere op zoek is naar de enige persoon die het leven van zijn vrouw had kunnen redden.'
-inLanguage: nl
-app_links: []
-isBasedOnUrl: 'http://www.leschosesenface.eu/'
-title: Les Choses en Face
-datePublished: '2016-02-15T20:04:14.486Z'
-dateModified: '2016-02-15T19:59:08.040Z'
-sourcePath: _posts/2016-02-15-les-choses-en-face.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.leschosesenface.eu/'
+inLanguage: nl
+starred: false
+keywords: []
+description: 'Een intrigerend verhaal over twee mannen, waarvan de eerste zijn buitenlandse familie probeert bijeen te krijgen en te herenigen, terwijl de andere op zoek is naar de enige persoon die het leven van zijn vrouw had kunnen redden.'
+datePublished: '2016-02-15T21:50:04.327Z'
+dateModified: '2016-02-15T21:48:58.301Z'
+author: []
+related: []
+app_links: []
+title: Les Choses en Face
+sourcePath: _posts/2016-02-15-les-choses-en-face.md
+published: true
+authors: []
+publisher:
+  name: Leschosesenface
+  domain: www.leschosesenface.eu
+  url: 'http://www.leschosesenface.eu'
+  favicon: 'http://www.leschosesenface.eu/favicon-16x16.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Les Choses en Face</h1><p>Een intrigerend verhaal over twee mannen&amp;comma; waarvan de eerste zijn buitenlandse familie probeert bijeen te krijgen en te herenigen&amp;comma; terwijl de andere op zoek is naar de enige persoon die het leven van zijn vrouw had kunnen redden&amp;period;</p><img src="http://www.leschosesenface.eu/assets/components/phpthumbof/cache/douglasboswell2.361010b4ea3df8c5a046ec4fffe5f6fd.jpg" /></article>
+<article style=""><h1>Les Choses en Face</h1><p>Een intrigerend verhaal over twee mannen, waarvan de eerste zijn buitenlandse familie probeert bijeen te krijgen en te herenigen, terwijl de andere op zoek is naar de enige persoon die het leven van zijn vrouw had kunnen redden.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00fcdd31cb4a2a155b1a21d9e37f57f6119cb002.jpg" /></article>
