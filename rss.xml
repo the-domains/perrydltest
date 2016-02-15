@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Perrydltest]]></title>
         <description><![CDATA[Perrydltest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/perrydltest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 22:23:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 22:24:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/perrydltest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Les Choses en Face]]></title>
+            <description><![CDATA[<article><h1>Les Choses en Face</h1><p>Een intrigerend verhaal over twee mannen, waarvan de eerste zijn buitenlandse familie probeert bijeen te krijgen en te herenigen, terwijl de andere op zoek is naar de enige persoon die het leven van zijn vrouw had kunnen redden.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c581c06bc01c6046284d02a640c0b65a72f6d8ab.jpg"></article>]]></description>
+            <link>http://www.leschosesenface.eu/</link>
+            <guid isPermaLink="false">d23a653c-6f24-4b4b-9d7c-6f74cd708b53</guid>
+            <pubDate>Mon, 15 Feb 2016 22:23:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Final Fantasy XV]]></title>
             <description><![CDATA[<article><h1>Final Fantasy XV</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abec442e12a81a3a2f23c9568dfc7d21b9e6fb4e.png"></article>]]></description>
-            <link>undefinedfinal-fantasy-xv/index.html</link>
+            <link>https://thegrid.ai/perrydltest/final-fantasy-xv/index.html</link>
             <guid isPermaLink="false">d9d5cadb-3971-4d0b-a0fd-79d98671bb9a</guid>
             <pubDate>Mon, 15 Feb 2016 22:23:57 GMT</pubDate>
         </item>
