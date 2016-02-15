@@ -1,28 +1,27 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.leschosesenface.eu/'
-inLanguage: nl
+hasPage: true
+inNav: true
+inLanguage: null
 starred: false
 keywords: []
-description: 'Een intrigerend verhaal over twee mannen, waarvan de eerste zijn buitenlandse familie probeert bijeen te krijgen en te herenigen, terwijl de andere op zoek is naar de enige persoon die het leven van zijn vrouw had kunnen redden.'
-datePublished: '2016-02-15T22:23:57.138Z'
-dateModified: '2016-02-15T22:22:56.553Z'
-author: []
-related: []
-app_links: []
+description: Short Film project
+datePublished: '2016-02-15T22:53:35.332Z'
+dateModified: '2016-02-15T22:45:30.241Z'
 title: Les Choses en Face
-sourcePath: _posts/2016-02-15-les-choses-en-face.md
-published: true
+author: []
 authors: []
 publisher:
-  name: Leschosesenface
-  domain: www.leschosesenface.eu
-  url: 'http://www.leschosesenface.eu'
-  favicon: 'http://www.leschosesenface.eu/favicon-16x16.png'
-_context: 'http://schema.org'
-_type: MediaObject
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-02-15-les-choses-en-face.md
+published: true
+url: les-choses-en-face/index.html
+_type: Article
 
 ---
-<article style=""><h1>Les Choses en Face</h1><p>Een intrigerend verhaal over twee mannen, waarvan de eerste zijn buitenlandse familie probeert bijeen te krijgen en te herenigen, terwijl de andere op zoek is naar de enige persoon die het leven van zijn vrouw had kunnen redden.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00fcdd31cb4a2a155b1a21d9e37f57f6119cb002.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd44581b-7d61-440f-bac3-b8dec9b111d1.jpg)
+
+I was able to produce the short film Les Choses en Face, together with Vivi Film.
