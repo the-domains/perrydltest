@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Test
-datePublished: '2016-02-15T22:26:48.391Z'
-dateModified: '2016-02-15T22:24:50.603Z'
+datePublished: '2016-02-15T22:31:09.989Z'
+dateModified: '2016-02-15T22:31:04.285Z'
 title: Biography
 author: []
 sourcePath: _posts/2016-02-15-biography.md
@@ -22,7 +22,7 @@ url: biography/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e3cf6cef185abcf16fd6f654180ebcc4d0a14e4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/477ba1c084bbc450a6b035753865ee158a1dbfd5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b30755e7-3c6d-4ce8-a130-e1ce792d454e.JPG)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8aff711c9134a814fd2f35beeb25822c14ad7fc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1921bc0b-8a1f-4df4-8519-7695ac712352.JPG)
