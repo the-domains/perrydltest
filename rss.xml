@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Perrydltest]]></title>
+        <description><![CDATA[Perrydltest]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 19:27:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Biography]]></title>
+            <description><![CDATA[<article><h1>Biography</h1><p>Hi there, my name is Perry. I'm a film director. Here some pictures of me on holiday.</p></article>]]></description>
+            <link>undefinedbiography/index.html</link>
+            <guid isPermaLink="false">2b1d6302-5aab-43f6-ad8a-42a6116ef38c</guid>
+            <pubDate>Mon, 15 Feb 2016 19:27:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
