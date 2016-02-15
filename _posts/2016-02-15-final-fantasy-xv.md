@@ -1,24 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.finalfantasyxv.com'
-  name: Final Fantasy XV
-  favicon: 'http://www.finalfantasyxv.com/favicon.ico'
-  domain: www.finalfantasyxv.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: it
+starred: false
 keywords: []
 description: ''
-inLanguage: it
+datePublished: '2016-02-15T20:30:11.125Z'
+dateModified: '2016-02-15T20:30:07.313Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.finalfantasyxv.com/index.php'
 title: Final Fantasy XV
-datePublished: '2016-02-15T20:22:09.130Z'
-dateModified: '2016-02-15T20:19:29.348Z'
 sourcePath: _posts/2016-02-15-final-fantasy-xv.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Final Fantasy XV
+  domain: www.finalfantasyxv.com
+  url: 'http://www.finalfantasyxv.com'
+  favicon: 'http://www.finalfantasyxv.com/favicon.ico'
+url: final-fantasy-xv/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
