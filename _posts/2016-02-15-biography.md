@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Test
-datePublished: '2016-02-15T19:29:13.688Z'
-dateModified: '2016-02-15T19:29:11.498Z'
+datePublished: '2016-02-15T19:36:54.746Z'
+dateModified: '2016-02-15T19:36:52.775Z'
 title: Biography
+author: []
+sourcePath: _posts/2016-02-15-biography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-15-biography.md
-published: true
 url: biography/index.html
 _type: Article
 
