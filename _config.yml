@@ -1,15 +1,7 @@
-layout_spectrum: 0.9361702
-favicon: null
 name: Perrydltest
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.9361702
+typography_spectrum: 0.6446809
 collections:
   - index:
       navigable: true
@@ -23,18 +15,26 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  version: null
-  bucket: null
   domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.793617
-  lightness: 0.506383
-  saturation: 0.4
-  rhythmicContrast: 0.2829787
   brandColors:
-    - '#aa5039'
-    - '#28794c'
-    - '#003d1a'
-    - '#d4b16a'
-    - '#ffe3aa'
-typography_spectrum: 0.6446809
+    - '#0a0a0a'
+    - '#383530'
+    - '#989eaa'
+    - '#fefefe'
+    - '#897453'
+  brandStrength: 0.6875
+  lightness: 0.8125
+  saturation: 0.5
+  rhythmicContrast: 1
+purpose: []
