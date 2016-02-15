@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Intro
-datePublished: '2016-02-15T22:57:27.954Z'
-dateModified: '2016-02-15T22:56:37.706Z'
+datePublished: '2016-02-15T23:18:24.374Z'
+dateModified: '2016-02-15T23:18:21.595Z'
 title: Biography
 author: []
 sourcePath: _posts/2016-02-15-intro-text.md
@@ -22,7 +22,7 @@ url: biography/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f44b5fa0-b778-431d-b2ce-9d17e4c238c6.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2cedcc13e99c0ec49224ce4540181cbac4d5770.jpg)
 
 I am Perry de Loor, motivated and employable for all your media projects from videoclips, presentations, company movies, commercials and television to films.
 
