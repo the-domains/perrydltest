@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Short Film project
-datePublished: '2016-02-15T22:57:21.156Z'
-dateModified: '2016-02-15T22:56:55.941Z'
+datePublished: '2016-02-15T23:21:02.281Z'
+dateModified: '2016-02-15T23:20:59.654Z'
 title: Les Choses en Face
 author: []
 sourcePath: _posts/2016-02-15-les-choses-en-face.md
@@ -22,6 +22,6 @@ url: les-choses-en-face/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd44581b-7d61-440f-bac3-b8dec9b111d1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/157e81b7d146d72d263b18be0aaae9ad81226bf7.jpg)
 
 I was able to produce the short film Les Choses en Face, together with Vivi Film.
