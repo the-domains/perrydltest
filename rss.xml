@@ -4,7 +4,7 @@
         <description><![CDATA[Site van Perry de Loor]]></description>
         <link>https://thegrid.ai/perrydltest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 15:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 15:29:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/perrydltest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Biography]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/perrydltest/les-choses-en-face/index.html</link>
             <guid isPermaLink="false">d23a653c-6f24-4b4b-9d7c-6f74cd708b53</guid>
             <pubDate>Mon, 15 Feb 2016 22:57:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blogs I follow]]></title>
+            <description><![CDATA[<article><h1>Blogs I follow</h1><p>https://www.youtube.com/watch?v=FgA0_4WKegA</p></article>]]></description>
+            <link>https://thegrid.ai/perrydltest/blogs-i-follow/index.html</link>
+            <guid isPermaLink="false">211b9ca2-698b-49c5-bdc7-eca4826e9301</guid>
+            <pubDate>Tue, 22 Mar 2016 15:28:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Film project for Arkite</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35312e34f4fd46ed1d39e15b016f6b5734ba3d2e.jpg"></article>]]></description>
             <link>http://www.arkite.be/</link>
             <guid isPermaLink="false">eea6a40d-71d5-43ae-bb4f-4a378c58a780</guid>
-            <pubDate>Mon, 15 Feb 2016 22:53:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/314c74bba0fff29f8e78f682e0f704dd7ae403bb.jpg" alt="" title="">]]></description>
-            <link>http://gointothestory.blcklst.com/</link>
-            <guid isPermaLink="false">1aa09452-d9b5-46d2-a0fb-243b7c31cbb3</guid>
             <pubDate>Mon, 15 Feb 2016 22:53:34 GMT</pubDate>
         </item>
     </channel>
