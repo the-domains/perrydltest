@@ -1,20 +1,8 @@
-title: Site van Perry de Loor
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.8787234
-favicon: null
 name: Perry de Loor Try out
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.49829
+typography_spectrum: 0.8212766
+title: Site van Perry de Loor
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#000000'
+    - '#1d1e23'
+    - '#3f505d'
+    - '#8b7a67'
+    - '#8d9474'
   brandStrength: 0.5255319
   lightness: 1
   saturation: 0
   rhythmicContrast: 1
-  brandColors:
-    - '#0a0a0a'
-    - '#383530'
-    - '#989eaa'
-    - '#fefefe'
-    - '#897453'
-typography_spectrum: 0.8212766
+purpose: []
