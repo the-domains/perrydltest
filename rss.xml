@@ -4,7 +4,7 @@
         <description><![CDATA[Site van Perry de Loor]]></description>
         <link>https://thegrid.ai/perrydltest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 22:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 22:09:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/perrydltest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Biography]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/perrydltest/les-choses-en-face/index.html</link>
             <guid isPermaLink="false">d23a653c-6f24-4b4b-9d7c-6f74cd708b53</guid>
             <pubDate>Mon, 15 Feb 2016 22:57:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['House of Cards' DP Reveals the Camera & Lighting Techniques of the Popular Netflix Series]]></title>
+            <description><![CDATA[<article><h1>'House of Cards' DP Reveals the Camera & Lighting Techniques of the Popular Netflix Series</h1><p>Television cinematography has come quite a ways in the past 10 years. In the arena of episodic television, where multi-camera shoots with high-key lighting were once the norm, incredibly cinematic single-camera cinematography has now taken hold.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6536d51fce15ec87e3a18ac8897729e7ea5a549a.png"></article>]]></description>
+            <link>http://nofilmschool.com/2014/03/house-of-cards-dp-camera-lighting-secrets-netflix-red-epic</link>
+            <guid isPermaLink="false">c4e5d0ca-23f1-4afa-8f03-8d1f3916c464</guid>
+            <pubDate>Wed, 06 Apr 2016 22:09:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Alfred Hitchcock Blocks A Scene]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Go Into The Story | The craft of screenwriting, movies, Hollywood, and the creative life</h1><p>Reading scripts. Absolutely critical to learn the craft of screenwriting. The focus of this weekly series is a deep structural and thematic analysis of each script we read. Our daily schedule: Monday: Scene-By-Scene Breakdown Tuesday: Plot Wednesday: Characters Thursday: Themes Friday: Dialogue Saturday: Takeaways Today: Scene-By-Scene Breakdown.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71d4ac0716c6d8d46b10b94ff10fe9aa32d896ff.jpg"></article>]]></description>
             <link>http://gointothestory.blcklst.com/</link>
             <guid isPermaLink="false">86676e55-ef50-4d43-9d0a-b7f65fa03395</guid>
-            <pubDate>Mon, 15 Feb 2016 22:53:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Film project for Arkite]]></title>
-            <description><![CDATA[<article><h1>Film project for Arkite</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35312e34f4fd46ed1d39e15b016f6b5734ba3d2e.jpg"></article>]]></description>
-            <link>http://www.arkite.be/</link>
-            <guid isPermaLink="false">eea6a40d-71d5-43ae-bb4f-4a378c58a780</guid>
             <pubDate>Mon, 15 Feb 2016 22:53:34 GMT</pubDate>
         </item>
     </channel>
