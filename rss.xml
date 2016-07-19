@@ -4,7 +4,7 @@
         <description><![CDATA[Site van Perry de Loor]]></description>
         <link>https://thegrid.ai/perrydltest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 19:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 19:50:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/perrydltest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Les Choses en Face]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/perrydltest/les-choses-en-face/index.html</link>
             <guid isPermaLink="false">d23a653c-6f24-4b4b-9d7c-6f74cd708b53</guid>
             <pubDate>Mon, 15 Feb 2016 22:57:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Go Into The Story | The craft of screenwriting, movies, Hollywood, and the creative life]]></title>
+            <description><![CDATA[<article><h1>Go Into The Story | The craft of screenwriting, movies, Hollywood, and the creative life</h1><p>Reading scripts. Absolutely critical to learn the craft of screenwriting. The focus of this weekly series is a deep structural and thematic analysis of each script we read. Our daily schedule: Monday: Scene-By-Scene Breakdown Tuesday: Plot Wednesday: Characters Thursday: Themes Friday: Dialogue Saturday: Takeaways Today: Scene-By-Scene Breakdown.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/938a4300a33c90bbbe2f0515687824bd0cdb1e14.jpg"></article>]]></description>
+            <link>http://gointothestory.blcklst.com/</link>
+            <guid isPermaLink="false">86676e55-ef50-4d43-9d0a-b7f65fa03395</guid>
+            <pubDate>Mon, 18 Jul 2016 19:50:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Film project for Arkite]]></title>
@@ -68,13 +75,6 @@
             <link>http://jogroad.podbean.com/e/32-max-landis-screenwriterdirector/?token=0cb5df311ec29ce1904da6de46843cc5</link>
             <guid isPermaLink="false">578fb91f-5a50-4ed0-b55b-5297d91884d5</guid>
             <pubDate>Tue, 22 Mar 2016 15:28:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Silence of the Lambs - The Inside Story]]></title>
-            <description><![CDATA[<article><h1>Silence of the Lambs - The Inside Story</h1><p>the superb making of/behind the scenes documentry for Silence of the Lambs........Enjoy!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f0ca54b05966835bfd8ab3b5bb5c58c3/croprotate.jpg?cropheight=288&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FFgA0_4WKegA%2Fhqdefault.jpg&x=0&y=33"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=FgA0_4WKegA</link>
-            <guid isPermaLink="false">149456e1-d3b9-4c13-8324-98b801aeb56b</guid>
-            <pubDate>Mon, 15 Feb 2016 22:53:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
