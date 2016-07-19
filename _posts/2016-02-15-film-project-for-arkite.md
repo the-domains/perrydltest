@@ -1,23 +1,25 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.arkite.be/'
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-07-18T19:26:58.350Z'
-dateModified: '2016-04-06T22:43:44.842Z'
-author: []
-title: Film project for Arkite
+datePublished: '2016-07-18T19:28:25.883Z'
 sourcePath: _posts/2016-02-15-film-project-for-arkite.md
+inFeed: true
+isBasedOnUrl: 'http://www.arkite.be/'
 authors: []
+hasPage: false
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-07-18T19:27:29.643Z'
+title: Film project for Arkite
 publisher:
   name: arkite.be
   domain: www.arkite.be
   url: null
   favicon: null
+description: ''
+inLanguage: null
+inNav: false
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
