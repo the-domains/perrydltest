@@ -7,23 +7,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T22:53:34.593Z'
-dateModified: '2016-02-15T22:52:24.998Z'
+datePublished: '2016-07-18T19:26:58.172Z'
+dateModified: '2016-04-06T22:43:44.842Z'
 author: []
 title: Film project for Arkite
+sourcePath: _posts/2016-02-15-film-project-for-arkite.md
 authors: []
 publisher:
   name: arkite.be
   domain: www.arkite.be
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-film-project-for-arkite.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/35312e34f4fd46ed1d39e15b016f6b5734ba3d2e.jpg)
+
 # Film project for _Arkite_
 
 # - **2016**
-![](http://arkite.be/onewebstatic/68781d2ca5-logo%20S.jpg)
