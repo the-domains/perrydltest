@@ -29,6 +29,10 @@ navigation:
     url: 2016-02-15-les-choses-en-face.html
     name: Les Choses en Face
     type: content
+  - id: fad67857-b353-4656-898f-fa20611c6897
+    url: 2016-02-15-intro-text.html
+    name: Biography
+    type: content
 favicon: null
 collections:
   - index:
