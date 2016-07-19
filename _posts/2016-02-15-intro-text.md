@@ -1,28 +1,28 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-starred: true
-keywords: []
-description: Intro
-datePublished: '2016-02-15T23:18:24.374Z'
-dateModified: '2016-02-15T23:18:21.595Z'
-title: Biography
-author: []
+datePublished: '2016-07-18T19:55:41.575Z'
 sourcePath: _posts/2016-02-15-intro-text.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-07-18T19:55:41.061Z'
+title: ''
+publisher: null
+description: >-
+  I am Perry de Loor, motivated and employable for all your media projects from
+  videoclips, presentations, company movies, commercials and television to
+  films.
+inLanguage: null
+inNav: true
+starred: true
 url: biography/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2cedcc13e99c0ec49224ce4540181cbac4d5770.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f50d555f4e1ac80ab2ea5b87ac618557c855938e.jpg)
 
 I am Perry de Loor, motivated and employable for all your media projects from videoclips, presentations, company movies, commercials and television to films.
 
