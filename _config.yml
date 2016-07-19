@@ -1,7 +1,7 @@
 name: Perry de Loor Try out
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.37563
+layout_spectrum: 0.7543283984996378
+typography_spectrum: 0.6233635547105223
 title: Site van Perry de Loor
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#0f8857'
-    - '#f6e9d1'
-    - '#b09d6f'
-    - '#c50029'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5625
-  rhythmicContrast: 1
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
+  brandStrength: 0.244996641529724
+  lightness: 0.4334656100254506
+  saturation: 0.2866741456091404
+  rhythmicContrast: 0.7229218201246113
 purpose: []
