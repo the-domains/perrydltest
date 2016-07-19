@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Scott
-    url: 'http://gointothestory.blcklst.com/author/admin'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://gointothestory.blcklst.com'
-  name: Blcklst
-  favicon: 'http://gointothestory.blcklst.com/favicon.ico'
-  domain: gointothestory.blcklst.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://gointothestory.blcklst.com/'
+inLanguage: en
+starred: false
 keywords:
   - nick
   - amy
@@ -20,18 +16,31 @@ keywords:
   - scene-by-scene
   - marybeth
   - house
-description: 'Reading scripts. Absolutely critical to learn the craft of screenwriting. The focus of this weekly series is a deep structural and thematic analysis of each script we read. Our daily schedule: Monday: Scene-By-Scene Breakdown Tuesday: Plot Wednesday: Characters Thursday: Themes Friday: Dialogue Saturday: Takeaways Today: Scene-By-Scene Breakdown.'
-inLanguage: en
+description: >-
+  Reading scripts. Absolutely critical to learn the craft of screenwriting. The
+  focus of this weekly series is a deep structural and thematic analysis of each
+  script we read. Our daily schedule: Monday: Scene-By-Scene Breakdown Tuesday:
+  Plot Wednesday: Characters Thursday: Themes Friday: Dialogue Saturday:
+  Takeaways Today: Scene-By-Scene Breakdown.
+datePublished: '2016-07-18T19:50:32.363Z'
+dateModified: '2016-02-15T23:00:43.903Z'
+author:
+  - name: Scott
+    url: 'http://gointothestory.blcklst.com/author/admin'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://gointothestory.blcklst.com/'
-title: 'Go Into The Story | The craft of screenwriting, movies, Hollywood, and the creative life'
-datePublished: '2016-02-15T22:53:34.818Z'
-dateModified: '2016-02-15T22:49:21.268Z'
-sourcePath: _posts/2016-02-15-go-into-the-story-or-the-craft-of-screenwriting-movies-holl.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+title: >-
+  Go Into The Story | The craft of screenwriting, movies, Hollywood, and the
+  creative life
+sourcePath: >-
+  _posts/2016-02-15-go-into-the-story-or-the-craft-of-screenwriting-movies-holl.md
+authors: []
+publisher:
+  name: Blcklst
+  domain: gointothestory.blcklst.com
+  url: 'http://gointothestory.blcklst.com'
+  favicon: 'http://gointothestory.blcklst.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
