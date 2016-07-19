@@ -1,8 +1,35 @@
+typography_spectrum: 0.37563
+color:
+  brandColors:
+    - '#000000'
+    - '#0f8857'
+    - '#f6e9d1'
+    - '#b09d6f'
+    - '#c50029'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 name: Perry de Loor Try out
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: d23a653c-6f24-4b4b-9d7c-6f74cd708b53
+    url: 2016-02-15-les-choses-en-face.html
+    name: Les Choses en Face
+    type: content
 favicon: null
-layout_spectrum: 0.7543283984996378
-typography_spectrum: 0.6233635547105223
-title: Site van Perry de Loor
 collections:
   - index:
       navigable: true
@@ -15,27 +42,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#A7304F'
-    - '#F46D8D'
-    - '#F39EB5'
-    - '#081028'
-    - '#F0CEB7'
-  brandStrength: 0.244996641529724
-  lightness: 0.4334656100254506
-  saturation: 0.2866741456091404
-  rhythmicContrast: 0.7229218201246113
+title: Site van Perry de Loor
 purpose: []
